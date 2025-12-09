@@ -9,6 +9,7 @@ wheels/
 .coverage
 .pytest_cache/
 coverage.xml
+.env
 
 # Virtual environments
 .venv
